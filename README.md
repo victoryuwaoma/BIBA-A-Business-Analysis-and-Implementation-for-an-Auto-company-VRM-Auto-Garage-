@@ -1,2 +1,2 @@
 # BIBA-Project
-A Business analysis and implementation for VMR Auto Garage
+A Business Analysis and Implementation for an Auto company
